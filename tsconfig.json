@@ -1,0 +1,17 @@
+{
+  "extends": "./tsconfig.common.json",
+  "compilerOptions": {
+    "outDir": "dist/src",
+    "incremental": true
+  },
+  "exclude": [
+    "node_modules"
+  ],
+  "include": [
+    "*.ts"
+  ],
+  "references": [
+    {"path": "web"}
+  ]
+}
+

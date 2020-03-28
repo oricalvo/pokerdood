@@ -1,0 +1,9 @@
+{
+    "name": "@pokerdood/common",
+    "version": "1.0.0",
+    "license": "MIT",
+    "private": true,
+    "dependencies": {
+        "typescript": "^3.5.1"
+    }
+}

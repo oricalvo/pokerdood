@@ -1,0 +1,10 @@
+{
+    "name": "@pokerdood/server-common",
+    "version": "1.0.0",
+    "license": "MIT",
+    "private": true,
+    "dependencies": {
+        "chalk": "^3.0.0",
+        "typescript": "^3.5.1"
+    }
+}

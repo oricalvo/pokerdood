@@ -1,0 +1,17 @@
+{
+  "name": "@pokerdood/root",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+  },
+  "author": "Ori Calvo",
+  "license": "ISC",
+  "workspaces": [
+    "web",
+    "server-common",
+    "common"
+  ],
+  "private": true,
+  "dependencies": {}
+}
