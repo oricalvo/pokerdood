@@ -6,7 +6,7 @@
     "dependencies": {
         "@types/express": "^4.11.1",
         "dev-manager": "^1.0.70",
-        "express": "^4.16.2",
+        "express": "^4.17.3",
         "typescript": "^3.5.1",
         "winston": "^3.1.0"
     }
